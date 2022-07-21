@@ -1,0 +1,18 @@
+[
+ {
+  "id": 1,
+  "name": "Juan Perez",
+  "userName": "juanperez",
+  "email": "jperez@gmail.com",
+  "image": "",
+  "password": "hola1234"
+ },
+ {
+  "id": 2,
+  "name": "Juan Topo",
+  "userName": "juantopo",
+  "email": "jtopo@gmail.com",
+  "password": "$2a$10$FzsIifH8DEBOS/uCm5Bvi.d/ioQfMn0l749Il05Fz/qzradV.voAO",
+  "image": "image-1658327639470.jpg"
+ }
+]
